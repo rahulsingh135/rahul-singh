@@ -64,7 +64,7 @@ export default function Portfolio() {
                 <h2 className="h6">Rahul Singh</h2>
                 <h3 className="h5">Portfolio Web APP</h3>
                 <a
-                  href="https://github.com/rahulsingh135/ShopCart"
+                  href="https://rahul-singh.vercel.app/"
                   target="_blank"
                   title="Click to open Link"
                   className="btn btn-link"
